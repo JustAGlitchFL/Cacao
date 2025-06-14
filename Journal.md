@@ -2,7 +2,7 @@
 title: "Cacao"
 author: "rowyn"
 description: "A hotswappable, Kailh Choc based low profile 68% keyboard with a rotary encoder and 4 macro keys. Powered by Orpheus Pico"
-created_at: "2024-06-2"
+created_at: "2025-06-2"
 ---
 
 ## 6/2: PCB speedrun
