@@ -2,7 +2,7 @@
 title: "Cacao"
 author: "rowyn"
 description: "A hotswappable, Kailh Choc based low profile 68% keyboard with a rotary encoder and 4 macro keys. Powered by Orpheus Pico"
-created_at: "2024-06-2"
+created_at: "2025-06-2"
 ---
 
 ## 6/2: PCB speedrun
@@ -23,3 +23,8 @@ Dropped the STEP of the PCB into Onshape and sketched out a simple case for this
 Actual update after the case was finished on the zoom, rather than the prospective update before:
 
 This case was not easy, as I legitimately don't remember how I did the other so easily at 4am a few days ago. I still can't get effective design formats out of kicad, so I had to just use the center of each switch and draw a 14mm square around it for the key to rest in. I also had to find the plate cutout for choc stabilizers and replicate it. Also on the call, I helped others with their projects, including researching phased array antenna clusters, cellular tracking, and battery management systems.
+
+## 6/9-6/12 BOM, README, and submission
+Hours: 6
+
+Exactly what it sounds like, I might have to pay out of pocket a bit because of tariffs sadly.
