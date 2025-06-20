@@ -4,6 +4,7 @@ author: "rowyn"
 description: "A hotswappable, Kailh Choc based low profile 68% keyboard with a rotary encoder and 4 macro keys. Powered by Orpheus Pico"
 created_at: "2025-06-2"
 ---
+Total Hours: 15 
 
 ## 6/2: PCB speedrun
 Hours: 4
